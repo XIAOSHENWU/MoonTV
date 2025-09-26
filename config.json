@@ -79,7 +79,23 @@
     },
     "qqzy": {
       "api": "https://www.qiqidys.com/api.php/provide/vod",
-      "name": " 七七资源"
+      "name": " 七七资源" 
+    },
+    "qm": {
+      "api": "https://jihulab.com/clear1/yingmi/-/raw/main/js/奇米动漫.js",
+      "name": "奇米动漫"
+    },
+    "ntdm": {
+      "api": "https://jihulab.com/clear1/yingmi/-/raw/main/js/ntdm.js",
+      "name": "拿铁动漫"
+    },
+    "qkb": {
+      "api": "https://jihulab.com/clear1/yingmi/-/raw/main/js/去看吧.js",
+      "name": "去看吧"
+    },
+    "ntdm": {
+      "api": "https://jihulab.com/clear1/yingmi/-/raw/main/js/NT动漫.js",
+      "name": "NT动漫"
     },
     "ysgc": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
