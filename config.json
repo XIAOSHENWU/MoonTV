@@ -3,12 +3,12 @@
   "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "电影天堂资源",
+      "name": "电影天堂资源"
       "detail": "http://caiji.dyttzyapi.com"
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "黑木耳",
+      "name": "黑木耳"
       "detail": "https://heimuer.tv"
     },
     "ruyi": {
@@ -42,7 +42,7 @@
     },
     "jisu": {
       "api": "https://jszyapi.com/api.php/provide/vod",
-      "name": "极速资源",
+      "name": "极速资源"
       "detail": "https://jszyapi.com"
     },
     "dbzy": {
@@ -103,11 +103,11 @@
      },
     "ykzy": {
       "api": "https://api.yongjiuzy.cc/provide/vod",
-      "name": "永久资源",
+      "name": "永久资源"
      },
     "bdzy": {
       "api": "https://api.1080zyku.com/inc/apijson_vod.php",
-      "name": "百度资源"，
+      "name": "百度资源"
      },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
