@@ -1,10 +1,10 @@
 {
     "cache_time": 7200,
     "api_site": {
-        "1_360Tzy": {
-            "name": "TV-360资源",
-            "api": "https://360zy.com/api.php/provide/vod",
-            "detail": "https://360zy.com"
+        "1_dyttzy": {
+            "name": "电影天堂资源",
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+            "detail": "http://caiji.dyttzyapi.com"
         },
         "2_Tbdyzy": {
             "name": "TV-百度云资源",
@@ -181,10 +181,10 @@
             "api": "https://zy.xmm.hk/api.php/provide/vod",
             "detail": "https://zy.xmm.hk"
         },
-        "39_dyttzy": {
-            "name": "TV-电影天堂资源",
-            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-            "detail": "http://caiji.dyttzyapi.com"
+        "39_360Tzy": {
+            "name": "TV-360资源",
+            "api": "https://360zy.com/api.php/provide/vod",
+            "detail": "https://360zy.com"
         },
         "40_ryzy": {
             "name": "TV-如意资源",
