@@ -9,7 +9,26 @@
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
-      "detail": "https://heimuer.tv"
+      "detail": "https://heimuer.tv"   
+    },
+    "gszy": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "光速资源",
+      "detail": "https://api.guangsuapi.com"
+    },
+    "snzy": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
+    },
+    "ffzy": {
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡资源",
+      "detail": "https://cj.ffzyapi.com"
+    },
+    "jyzy": {
+      "api": "https://jyzyapi.com/api.php/provide/vod",
+      "name": "金鹰资源",
+      "detail": "https://jyzyapi.com"
     },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
