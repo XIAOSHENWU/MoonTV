@@ -30,16 +30,6 @@
       "name": "金鹰资源",
       "detail": "https://jyzyapi.com"    
     },
-    "qmdm": {
-      "api": "https://www.qimiqimi.net/api.php/provide/vod",
-      "name": "奇米动漫",
-      "detail": "https://www.qimiqimi.net"    
-    },
-    "ntdm": {
-      "api": "https://www.ntdm8.com/api.php/provide/vod",
-      "name": "NT动漫",
-      "detail": "https://www.ntdm8.com/"
-    },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
