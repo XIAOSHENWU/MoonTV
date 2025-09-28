@@ -28,7 +28,12 @@
     "jyzy": {
       "api": "https://jyzyapi.com/api.php/provide/vod",
       "name": "金鹰资源",
-      "detail": "https://jyzyapi.com"
+      "detail": "https://jyzyapi.com"    
+    },
+    "qmdm": {
+      "api": "https://www.qimiqimi.net/api.php/provide/vod",
+      "name": "奇米动漫",
+      "detail": "https://www.qimiqimi.net"
     },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
